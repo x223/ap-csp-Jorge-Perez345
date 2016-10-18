@@ -3,7 +3,7 @@ var strokeColor = "black"
 
 function setup() {
   createCanvas(500,500);
-  text('p = Pink, r = Red, l = Blue = g = Green o = Orange y = Yellow',10,15)
+  text('p = pink, r = red, l = blue = g = green o = orange y = yellow',10,15)
 }
 
 function draw() {
